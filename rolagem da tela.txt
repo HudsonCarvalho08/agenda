@@ -1,0 +1,5 @@
+    ScrollView:
+        Aprendemos a usar a ScrollView para permitir rolagem na tela, desde que não usando FlatList, pois há incompatibilidades entre esses dois componentes.
+
+    FlatList:
+        Aprendemos a otimizar listas e fazer a rolagem da tela exclusivamente com o FlatList.
